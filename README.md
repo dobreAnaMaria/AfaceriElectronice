@@ -1,5 +1,5 @@
 # AfaceriElectronice
-Un site de comert electronic.
+Un site de comert electronic: partea de backend -> node cu express si mysql, partea de front -> bootstrap, jquery.
 In arhiva se afla toate fisierele utilizate prentru realizarea si testarea site-ului (mai putin baza de date mysql, de unde imi trag produsele):
 1. views: fisierul unde sunt stocate paginile HTML/CSS/JS 
 2. routes: calea catre acestea (am setat-o direct din app.js -- serverul)
